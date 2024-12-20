@@ -20,7 +20,7 @@ Explore the following sections for a complete learning experience:
 | **Computer Vision Projects** | Real-world projects to apply skills and create impactful solutions. |
 | **Career Guidance**     | Interview tips and career advice for computer vision roles.             |
 
----
+
 
 ## 📚 Fundamentals of Computer Vision
 Start with the basics to build a strong foundation in computer vision:
@@ -29,7 +29,7 @@ Start with the basics to build a strong foundation in computer vision:
 - 📝 [Neural Network Projects](<https://www.projectpro.io/article/neural-network-projects/440>)
 - 📝 [How to Learn Computer Vision](<https://www.projectpro.io/article/how-to-learn-computer-vision/515>)
 
----
+
 
 ## 🌐 Tutorials & Recipes
 Explore practical tutorials and code snippets for building computer vision solutions:
@@ -38,7 +38,7 @@ Explore practical tutorials and code snippets for building computer vision solut
 - 📝 [Laplacian Derivatives of Image Using OpenCV](<https://www.projectpro.io/recipes/what-are-laplacian-derivatives-of-image-opencv>)
 - 📝 [Find Shape, Size, and Data Type of Image Using OpenCV](<https://www.projectpro.io/recipes/find-shape-size-and-data-type-of-image-opencv>)
 
----
+
 
 ## 🧠 Practical Tips
 Explore essential libraries for computer vision projects and get started with these project ideas:
@@ -49,7 +49,6 @@ Explore essential libraries for computer vision projects and get started with th
 - 📝 [Image Processing Project Ideas](<https://www.projectpro.io/article/image-processing-projects-ideas/460>)
 - 📝 [Face Detection Projects](<https://www.projectpro.io/article/face-detection-projects/724>)
 
----
 
 ## 🚀 Computer Vision Projects
 Apply what you’ve learned with these hands-on projects:
@@ -59,14 +58,13 @@ Apply what you’ve learned with these hands-on projects:
 - 🛠️ [Build CNN for Image Colorization Using Deep Transfer Learning](<https://www.projectpro.io/project-use-case/image-colorization-project-using-autoencoders>)
 - 🛠️ [Build a CNN Model with PyTorch for Image Classification](<https://www.projectpro.io/project-use-case/pytorch-cnn-example-for-image-classification>)
 
----
+
 
 ## 🎁 Free Resources
 Get access to free learning materials:
 - 📄 [Computer Vision Interview Questions and Answers (PDF)](<https://www.projectpro.io/free-learning-resources/computer-vision-interview-questions-and-answers-pdf>)
 - 📄 [Facial Emotion Recognition Project Using CNN (with Source Code)](<https://www.projectpro.io/article/facial-emotion-recognition-project-using-cnn-with-source-code/570>)
 
----
 
 <p align="center">
   <a href="https://www.projectpro.io/learning-paths/computer-vision-roadmap" target="_blank" style="text-decoration: none;">
