@@ -59,8 +59,7 @@ Apply what you’ve learned with these hands-on projects:
 - 🛠️ [Build a CNN Model with PyTorch for Image Classification](<https://www.projectpro.io/project-use-case/pytorch-cnn-example-for-image-classification>)
 
 ## 🎓 Career Guidance 
-
-Prepare for a successful career in machine learning:
+Prepare for a successful career in computer vision:
 - 📝 [Computer Vision Engineer Interview Q&A](<https://www.projectpro.io/article/computer-vision-engineer-interview-questions/450>)
 
 ## 🎁 Free Resources
